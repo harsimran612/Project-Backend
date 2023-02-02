@@ -6,11 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon app.js",
-    "watch": "webpack --watch"
+    "watch": "webpack --watch",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "start": "node app.js",
     "url": "git+https://github.com/harsimran612/FullStackProject-HarsimranSingh.git"
   },
   "keywords": [],
